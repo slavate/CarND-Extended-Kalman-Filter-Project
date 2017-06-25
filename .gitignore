@@ -24,3 +24,5 @@ ide_profiles/xcode/Debug/
 ide_profiles/xcode/ExtendedKF.build/
 *.opendb
 *.db
+.vs
+/ExtendedKF.dir
